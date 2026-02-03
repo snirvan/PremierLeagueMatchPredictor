@@ -19,18 +19,10 @@ This script automatically downloads the latest Premier League match data from [f
 ## Usage
 
 ### Prerequisites
-
-Make sure you have the required Python packages:
-
-```bash
-pip install -r scraper_requirements.txt
-```
-
-Or if using your virtual environment:
+using your virtual environment:
 
 ```bash
 source venv/bin/activate
-pip install -r scraper_requirements.txt
 ```
 
 ### Running the Scraper

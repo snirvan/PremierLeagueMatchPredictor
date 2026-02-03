@@ -40,16 +40,9 @@ A modern web application that displays AI-powered Premier League match predictio
 
 3. Start the backend server:
    ```bash
-   ./start_backend.sh
-   ```
-   
-   Or manually:
-   ```bash
    cd backend
    python app.py
    ```
-
-   The API will be available at `http://localhost:5001`
 
 ### Frontend Setup
 
@@ -60,11 +53,6 @@ A modern web application that displays AI-powered Premier League match predictio
    ```
 
 2. Start the development server:
-   ```bash
-   ./start_frontend.sh
-   ```
-   
-   Or manually:
    ```bash
    cd frontend
    npm run dev
